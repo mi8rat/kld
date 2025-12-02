@@ -1,2 +1,2 @@
 # web
-A TypeScript web framework
+it is an MVC framework written in TypeScript.
